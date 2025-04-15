@@ -1,6 +1,6 @@
 # AI Dynamic Captions
 
-![AI Dynamic Captions](/public/assets/images/cover.png)
+![AI Dynamic Captions](/public/assets/images/shots.png)
 
 High-performance video content automation system leveraging GPU-accelerated processing and multi-modal AI for dynamic caption generation. Built on distributed cloud architecture with NVIDIA CUDA acceleration.
 
